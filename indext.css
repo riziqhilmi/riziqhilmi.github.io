@@ -1,0 +1,13 @@
+.jumbotron {
+  padding: 7rem;
+  background-color: rgb(1, 82, 139);
+}
+
+.jumbotron img {
+  border-radius: 50%;
+}
+
+.form {
+  padding: 4rem;
+  
+}
